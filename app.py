@@ -101,7 +101,7 @@ def logout():
     login_headers = {
         "User-Agent": "Dalvik/2.1.0",
         "Content-Type": "application/octet-stream",
-        "ReleaseVersion": "OB51"
+        "ReleaseVersion": "OB52"
     }
 
     platforms = [8, 3, 4, 6]
